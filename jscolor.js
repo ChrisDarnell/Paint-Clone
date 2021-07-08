@@ -7,7 +7,6 @@
  * @author  Jan Odvarko
  * @version 2.0.5
  *
- * See usage examples at http://jscolor.com/examples/
  */
 
 
